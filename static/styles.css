@@ -312,3 +312,46 @@ body.chat-active .chat-interface {
     padding-left: 15px;
     margin-left: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ... your existing CSS ... */
+
+.voice-btn.listening {
+    color: #00ff00; /* Or any other indication of listening */
+}
+
+/* ... rest of your CSS ... */
