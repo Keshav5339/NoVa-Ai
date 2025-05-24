@@ -320,38 +320,6 @@ body.chat-active .chat-interface {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* ... your existing CSS ... */
-
 .voice-btn.listening {
     color: #00ff00; /* Or any other indication of listening */
 }
-
-/* ... rest of your CSS ... */
