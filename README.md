@@ -99,11 +99,3 @@ B.Tech CSE Student | Aspiring Software Developer
 📌 GitHub: [Keshav5339](https://github.com/Keshav5339)
 
 --------------------
-
-If you want, I can also:
-
-* make it **ATS-friendly for resume links**
-* rewrite it in a **more startup / internship style**
-* add **badges**, **screenshots**, or **deployment section**
-
-Just tell me 👍
