@@ -4,7 +4,7 @@ NoVa AI is a smart, interactive web-based chatbot designed to provide real-time 
 
 --------------------
 
-## 🚀 Features
+##  🚀 Features
 
 * 💬 Real-time chat interface
 * 🎨 Clean and responsive UI
